@@ -1,0 +1,10 @@
+namespace: "fhlbc"
+name: "aws"
+version: "0.0.1"
+readme: "README.md"
+authors:
+    - "<Name> (@<github_handle>)"
+license:
+- GPL-2.0-or-later
+tags: [dynamodb]
+repository: "<repository>"
